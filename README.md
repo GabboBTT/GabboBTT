@@ -23,4 +23,4 @@
 
 ## Let's Connect
 
-[![LinkedIn](https://www.linkedin.com/in/gabriel-betti-496639328/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/gabriel-betti-496639328/)
