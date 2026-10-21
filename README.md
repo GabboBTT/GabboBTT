@@ -5,8 +5,11 @@
 ## About Me
 
 🎓 BSc in Computer Science (University of Udine) & Current Double Degree Master's Student in A.I. & Cybersecurity (Udine & Klagenfurt)
+
 🧠 Passionate about Federated Learning, Distributed AI Systems, and Medical Research via Reinforcement Learning
+
 🖥️ Combining a strong foundation in Networking, Cybersecurity, and DevOps with my AI research to deploy robust, distributed machine learning environments.
+
 🚀 Always eager to learn, experiment, and solve complex technical challenges with logic and teamwork
 
 > *“Development means creating and solving problems, mixing logic, deduction and collaboration.”*
